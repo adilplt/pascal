@@ -2,7 +2,7 @@ program aufgabeDrei;
 
 uses sysutils;
 
-const LOWER_BORDER =       125;
+const LOWER_BORDER =       126;
       UPPER_BORDER =       150;
 
 var   x            : integer;
